@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home | More Artts</title>
+    <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
+    <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+    <script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+</head>
+<body>
+   <div  data-role="page">
+    <div data-role="header" data-theme="b">
+        <h1> WT Arts</h1>
+    </div>
+    <div date-role="navbar" data-grid="c">
+        <ul>
+            <li> <a herf="index.html" class="ui-btn-active"> Home</a></li>
+            <li> <a herf="about_us.html" class="ui-btn-active"> About  Us</a></li>
+            <li> <a herf="product.html" class="ui-btn-active">Products</a></li>
+            <li> <a herf="login_register.html" class="ui-btn-active">Login/Register</a></li>
+        </ul>
+
+    </div>
+    <center> </center> <h3>Products</h3>
+    <div class="content"></div>
+    <center>
+    <div class="row">
+    </div>
+    <img src="nature image.jpg" height="350px" width="350px">
+    <img src="nature image.jpg" height="350px" width="350px">
+    <img src="nature image.jpg" height="350px" width="350px">
+
+   </div>
+</center> 
+
+</body>
+</html>
